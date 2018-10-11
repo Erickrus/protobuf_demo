@@ -4,15 +4,15 @@ Need install protoc beforehand:
 
 1, download https://github.com/protocolbuffers/protobuf/releases/download/v3.6.1/protoc-3.6.1-linux-x86_64.zip
 
-2, unzip it
+2, unzip protoc-3.6.1-linux-x86_64.zip
 
-3, sudo ln -s ~/python/protobuf/bin/protoc /usr/bin/protoc
+3, sudo ln -s ~/protobuf/bin/protoc /usr/bin/protoc
 
 Run the demo
 
 1, python3.6 add_people.py addressbook
 
-2, pythnon3.6 list_people.py addressbook
+2, python3.6 list_people.py addressbook
 
 
 
